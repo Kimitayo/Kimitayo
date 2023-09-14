@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oii, ✨ Eu sou a Clara Nascimento</a>  -- Kimitayo!!! ✨
+    Oii, ✨ Eu sou Clara -- Kimitayo!!! ✨
   </h1>
   
 <p align="center">

@@ -17,8 +17,8 @@
 ```diff
 < Quem sou eu? ⭐
 
-> Estudante de Engenharia Mecatrônica - UFRN
-> Estudando programação FrontEnd
+> Estudante de Tecnologia da Informação - UFRN
+> Estudando programação FullStack
 > Apaixonada por tecnologia
 
 ! um pouco de java, um tanto de python e um monte de js.

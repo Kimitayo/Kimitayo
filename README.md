@@ -21,7 +21,7 @@
 > Estudando programação FullStack
 > Apaixonada por tecnologia
 
-! um pouco de java, um tanto de python e um monte de js.
+! um pouco de python, um tanto de java e um monte de js.
 ! html e css por ❤
 ```
 

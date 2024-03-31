@@ -18,7 +18,7 @@
 < Quem sou eu? ⭐
 
 > Estudante de Tecnologia da Informação - UFRN
-> Estudando programação FullStack
+> Estudando programação FullStack e IA
 > Apaixonada por tecnologia
 
 ! um pouco de python, um tanto de java e um monte de js.

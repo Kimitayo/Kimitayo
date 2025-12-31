@@ -21,8 +21,8 @@
 > Estudando Machine Learning
 > Apaixonada por tecnologia
 
-! um pouco de C++, um tanto de C e um monte de python.
-! Python por ❤
+# Um pouco de SQL, foco total em Machine Learning e um monte de Python!
+# Python por ❤
 ```
 
 
@@ -31,15 +31,20 @@
 <div align="center">
   
 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=0089da)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=0089da)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0089da)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=0089da)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=f53ba2)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=f53ba2)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=0089da)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=0089da)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=0089da)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=0089da)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=0089da)
 
 </div>
 
 <div align="center">
-<a href="https://github.com/Kimitayo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kimitayo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimitayo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimitayo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimitayo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>

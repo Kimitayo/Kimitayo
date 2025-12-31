@@ -18,11 +18,11 @@
 < Quem sou eu? ⭐
 
 > Estudante de Tecnologia da Informação - UFRN
-> Estudando programação FullStack e IA
+> Estudando Machine Learning
 > Apaixonada por tecnologia
 
-! um pouco de python, um tanto de java e um monte de js.
-! html e css por ❤
+! um pouco de C++, um tanto de C e um monte de python.
+! Python por ❤
 ```
 
 

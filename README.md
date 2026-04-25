@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oii, ✨ Eu sou Clara -- Kimitayo!!! ✨
+    Hey, ✨ I'm Clara -- Kimitayo!!! ✨
   </h1>
   
 <p align="center">
@@ -17,16 +17,16 @@
 ```diff
 < Quem sou eu? ⭐
 
-> Estudante de Tecnologia da Informação - UFRN
-> Estudando Machine Learning
-> Apaixonada por tecnologia
+> IT Student - UFRN
+> Aspiring Machine Learning field
+> Data Analytics + ML + AI
 
-# Um pouco de SQL, foco total em Machine Learning e um monte de Python!
-# Python por ❤
+# A little SQL, total focus on Machine Learning, and a lot of Python!
+# Python ❤
 ```
 
 
-## 🛠 **Minhas Ferramentas:**
+## 🛠 **My Tools:**
 
 <div align="center">
   

@@ -15,7 +15,7 @@
 <img align="right" height="200" style="margin-left: 25px" src="https://giffiles.alphacoders.com/196/196511.gif" autoplay="true" loop="true">
 
 ```diff
-< Quem sou eu? ⭐
+< Who am I? ⭐
 
 > IT Student - UFRN
 > Aspiring Machine Learning field
